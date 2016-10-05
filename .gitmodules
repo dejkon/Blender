@@ -1,0 +1,3 @@
+[submodule "Blender"]
+	path = Blender
+	url = git://github.com/dejkon/Blender.git
